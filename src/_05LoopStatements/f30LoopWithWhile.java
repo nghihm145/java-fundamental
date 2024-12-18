@@ -18,9 +18,9 @@ Giới hạn thời gian chạy: 1 giây
 */
 public class f30LoopWithWhile {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt(); //get number from user input
-
+//        Scanner scanner = new Scanner(System.in);
+//        int n = scanner.nextInt(); //get number from user input
+        int n = 9;
         int c = 0;
         int a;
         int temp = n;
